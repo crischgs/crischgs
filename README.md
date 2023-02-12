@@ -16,11 +16,12 @@ Atualmente estudo <b>Desenvolvimento Web Full-Stack</b> na <a href="https://www.
 <!-- TECNOLOGIAS -->
 <div align="center">
 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23ff4500?style=flat-square&logo=javascript&logoColor=%23fff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23ff4500?style=flat-square&logo=html5&logoColor=%23fff)
+![CSS3](https://img.shields.io/badge/-CSS3-%23ff4500?style=flat-square&logo=css3&logoColor=%23fff)
 ![WordPress](https://img.shields.io/badge/-WordPress-%23ff4500?style=flat-square&logo=wordpress)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23ff4500?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-%23ff4500?style=flat-square&logo=git&logoColor=%23fff)
+![GitHub](https://img.shields.io/badge/-GitHub-%23ff4500?style=flat-square&logo=github&logoColor=%23fff)
 
 </div>
 
