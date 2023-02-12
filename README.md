@@ -2,8 +2,6 @@
 
 Meu nome é Cristiano Chagas e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2018 😎
 
-Atualmente ajudo a transformar a vida das pessoas na Trybe, uma Startup que está revolucionando a educação e formando pessoas para profissões do futuro e também através de vídeos no meu canal do YouTube.
-
 <br>
 
 <!-- GITHUB STATUS -->
