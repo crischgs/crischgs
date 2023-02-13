@@ -1,6 +1,7 @@
-## 👋🏻 Ei, tudo bem? Eu sou o Cris!
+## 👋🏻 Hey, I'm Cris!
 
-Atualmente estudo <b>Desenvolvimento Web Full-Stack</b> na <a href="https://www.betrybe.com/">Trybe</a>.
+Currently studying <b>full-stack web development</b> on <a href="https://www.betrybe.com/">Trybe</a>. <br>
+You can find me anywhere on the internet with the user <b>crischgs</b>.
 <br>
 
 <!-- GITHUB STATUS -->
