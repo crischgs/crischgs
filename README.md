@@ -1,6 +1,6 @@
 ## 👋🏻 Hey, I'm Cris!
 
-Currently studying <b>full-stack web development</b> on <a href="https://www.betrybe.com/">Trybe</a>. <br>
+Currently studying <b>full-stack web development</b> at <a href="https://www.betrybe.com/">Trybe</a>. <br>
 You can find me anywhere on the internet with the user <b>crischgs</b>.
 <br>
 
