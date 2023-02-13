@@ -1,6 +1,6 @@
-## 👋🏻 Olá, tudo bem? Eu sou o Cris! 👨🏻‍💻
+## 👋🏻 Ei, tudo bem? Bem vindo ao meu perfil!
 
-Atualmente estudo <b>Desenvolvimento Web Full-Stack</b> na <a href="https://www.betrybe.com/">Trybe</a>.
+Eu sou o Cris, moro no interior de Minas, amo tecnologia e atualmente estudo <b>Desenvolvimento Web Full-Stack</b> na <a href="https://www.betrybe.com/">Trybe</a>.
 <br>
 
 <!-- GITHUB STATUS -->
