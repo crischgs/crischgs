@@ -2,8 +2,6 @@
 
 I'm Brazilian, 22 years old and completely passionate about technology and how it can help people's lives.<br>Currently studying <b>full-stack web development</b> at <a href="https://www.betrybe.com/">Trybe</a>.<br>
 You can find me anywhere on the internet with the user <b>crischgs</b>.<br>
-And yes, I like the color orange. 🧡
-<br>
 
 <!-- GITHUB STATUS -->
 <div align="center">
