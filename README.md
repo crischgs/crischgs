@@ -31,9 +31,6 @@ And yes, I like the color orange. 🧡
   
   <a href="https://www.linkedin.com/in/crischgs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23ff4500?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:crischagase@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff4500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@crischgs" target="_blank"><img src="https://img.shields.io/badge/YouTube-ff4500?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/crischgs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23ff4500?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/crischgs" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23ff4500?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   
   ![](https://visitor-badge.glitch.me/badge?page_id=crischgs&left_color=%23ff4500&right_color=%23ff4500)
 
