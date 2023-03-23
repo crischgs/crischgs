@@ -17,7 +17,10 @@
   <h4>Where to find me:</h4>
   <a href="https://www.linkedin.com/in/crischgs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23ff4500?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:crischagase@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-ff4500?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
   
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=crischgs&left_color=%23ff4500&right_color=%23ff4500)
-
-</div>
+  
+ </div>
