@@ -15,3 +15,5 @@ I currently studying <b>Full Stack Web Development</b> at <a href="https://www.b
 #### Listening Now:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=ff4500)](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&redirect=true)
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=crischgs&left_color=%23ff4500&right_color=%23ff4500)
