@@ -6,6 +6,7 @@ I currently studying <b>Full Stack Web Development</b> at <a href="https://www.b
 
 #### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-orangered?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/crischgs)
+[![LinkedIn](https://img.shields.io/badge/-Telegram-orangered?logo=telegram&logoColor=white)](https://t.me/crischgs)
 
 #### My GitHub Statistics:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&bg_color=DEG,ff4500,0d1117&text_color=fff&icon_color=fff&ring_color=fff&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true) <br>
