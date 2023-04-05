@@ -7,13 +7,3 @@ My name is Cristiano, but you can call me Cris. I'm a 22 years old Web Developer
 #### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-orangered?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/crischgs)
 [![LinkedIn](https://img.shields.io/badge/-Telegram-orangered?logo=telegram&logoColor=white)](https://t.me/crischgs)
-
-#### My GitHub Statistics:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&bg_color=DEG,ff4500,0d1117&text_color=fff&icon_color=fff&ring_color=fff&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&bg_color=DEG,ff4500,0d1117&text_color=fff&icon_color=fff&hide_title=true&hide_border=true)
-
-#### Listening Now:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=ff4500)](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&redirect=true)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=crischgs&left_color=%23ff4500&right_color=%23ff4500)
