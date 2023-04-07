@@ -6,4 +6,3 @@ My name is Cristiano, but you can call me Cris. I'm a 22 years old Web Developer
 
 #### Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-orangered?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/crischgs)
-[![LinkedIn](https://img.shields.io/badge/-Telegram-orangered?logo=telegram&logoColor=white)](https://t.me/crischgs)
