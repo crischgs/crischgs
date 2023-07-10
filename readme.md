@@ -1,6 +1,6 @@
-### Hi there! 👋🏻
-My name is Cristiano Chagas. I'm a 23 years old Web Developer from Minas Gerais, Brazil. <br>
-I'm currently studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a>.
+### hi there! 👋🏻
+my name is cristiano chagas. i'm a 23 years old web developer from minas gerais, brazil. <br>
+i'm currently studying <b>full stack web development</b> at <a href="https://www.betrybe.com/">trybe</a>.
 
-[![LinkedIn](https://img.shields.io/badge/-Cristiano%20Chagas-e74b10?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/crischgs)
-[![dev.to](https://img.shields.io/badge/-crischagase@gmail.com-e74b10?style=flat-square&logo=gmail&logoColor=white)](mailto:crischagase@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-let's%20connect-e74b10?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/crischgs)
+
