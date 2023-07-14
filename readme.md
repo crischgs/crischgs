@@ -1,4 +1,4 @@
-### Hi there! 👋🏻
+### 👋🏻 Hi there!
 I'm Cris, a 23 years old Web Developer from Minas Gerais, Brazil. <br>
 I'm currently studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a>.
 
