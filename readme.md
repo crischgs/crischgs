@@ -1,6 +1,7 @@
 ### Hi there! &nbsp;<img src="images/wave.gif" width="24px">
-I'm Cris, a 23 yo web developer from Minas Gerais, Brazil. <br>
-I'm currently studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a>.
+My name is Cristiano Chagas, but you can call me Cris. I'm a 23 years old Web Developer from Minas Gerais, Brazil. <br />
+Currently, I'm studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a> - the best web development school in Brazil. <br />
+Creativity is one of my strongest points. Before entering - and falling in love with - the world of development, I worked as a designer and filmmaker. These experiences have contributed to my critical aesthetic perspective on my work as a developer today.
 
 ### Find me around the web
 [![][linkedin-logo]][linkedin]
@@ -10,13 +11,14 @@ I'm currently studying <b>Full Stack Web Development</b> at <a href="https://www
 [![][instagram-logo]][instagram]
 
 ### Community
-I am an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I am a proud ![][he4rt][He4rt] member.
+I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I'm a proud ![][he4rt][He4rt] member.
 
 ### GitHub Stats
 ![][stats] <br />
 ![][langs]
 
 ### Listening Now
+Don't try to understand. I really listen to a little bit of everything.
 ![][spotify]
 
 
