@@ -12,6 +12,10 @@ I'm currently studying <b>Full Stack Web Development</b> at <a href="https://www
 ### Community
 I am an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I am a proud ![][he4rt][He4rt] member.
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true) <br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true)
+
 [linkedin]: https://linkedin.com/in/crischgs
 [devto]: https://www.dev.to/crischgs
 [twitter]: https://www.twitter.com/crischgs
