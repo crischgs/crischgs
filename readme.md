@@ -3,9 +3,6 @@ My name is Cristiano Chagas, but you can call me Cris. I'm a 23 years old Web De
 Currently, I'm studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a> - the best web development school in Brazil. <br />
 Creativity is one of my strongest points. Before entering - and falling in love with - the world of development, I worked as a designer and filmmaker. These experiences have contributed to my critical aesthetic perspective on my work as a developer today.
 
-### 🫱🏻‍🫲🏻 Community
-I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I'm a proud ![][he4rt][He4rt] member.
-
 ### 🌎 Find me around the web
 [![][linkedin-logo]][linkedin]
 [![][devto-logo]][devto]
@@ -13,12 +10,15 @@ I'm an active person in the tech community. I currently manage the ![][spacecode
 [![][threads-logo]][threads]
 [![][instagram-logo]][instagram]
 
+### 🫱🏻‍🫲🏻 Community
+I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I'm a proud ![][he4rt][He4rt] member.
+
 ### :octocat: GitHub Stats
 ![][stats] <br />
 ![][langs]
 
 ### 🎶 Listening Now
-Don't try to understand. I really listen to a little bit of everything.
+Don't try to understand. I really listen to a little bit of everything. <br />
 ![][spotify]
 
 
