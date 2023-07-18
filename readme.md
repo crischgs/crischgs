@@ -13,11 +13,13 @@ I'm currently studying <b>Full Stack Web Development</b> at <a href="https://www
 I am an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I am a proud ![][he4rt][He4rt] member.
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true) <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true)
+![][stats] <br />
+![][langs]
 
 ### Listening Now
-[![](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=ff4500)](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&redirect=true)
+![][spotify]
+
+
 
 [linkedin]: https://linkedin.com/in/crischgs
 [devto]: https://www.dev.to/crischgs
@@ -33,3 +35,8 @@ I am an active person in the tech community. I currently manage the ![][spacecod
 [twitter-logo]: https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [threads-logo]: https://img.shields.io/badge/-threads-white?style=for-the-badge&logo=threads&logoColor=black
 [instagram-logo]: https://img.shields.io/badge/-instagram-fe016a?style=for-the-badge&logo=instagram&logoColor=white
+
+[stats]: https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true
+
+[spotify]: https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=ff4500
