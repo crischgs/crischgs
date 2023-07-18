@@ -1,23 +1,23 @@
-### Hi there! &nbsp;<img src="images/wave.gif" width="24px">
+### ✌🏻 Hi there!
 My name is Cristiano Chagas, but you can call me Cris. I'm a 23 years old Web Developer from Minas Gerais, Brazil. <br />
 Currently, I'm studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a> - the best web development school in Brazil. <br />
 Creativity is one of my strongest points. Before entering - and falling in love with - the world of development, I worked as a designer and filmmaker. These experiences have contributed to my critical aesthetic perspective on my work as a developer today.
 
-### Find me around the web
+### 🫱🏻‍🫲🏻 Community
+I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I'm a proud ![][he4rt][He4rt] member.
+
+### 🌎 Find me around the web
 [![][linkedin-logo]][linkedin]
 [![][devto-logo]][devto]
 [![][twitter-logo]][twitter]
 [![][threads-logo]][threads]
 [![][instagram-logo]][instagram]
 
-### Community
-I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I'm a proud ![][he4rt][He4rt] member.
-
-### GitHub Stats
+### :octocat: GitHub Stats
 ![][stats] <br />
 ![][langs]
 
-### Listening Now
+### 🎶 Listening Now
 Don't try to understand. I really listen to a little bit of everything.
 ![][spotify]
 
@@ -36,7 +36,7 @@ Don't try to understand. I really listen to a little bit of everything.
 [devto-logo]: https://img.shields.io/badge/-dev.to-gray?style=for-the-badge&logo=dev.to&logoColor=white'
 [twitter-logo]: https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [threads-logo]: https://img.shields.io/badge/-threads-white?style=for-the-badge&logo=threads&logoColor=black
-[instagram-logo]: https://img.shields.io/badge/-instagram-fe016a?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-logo]: https://img.shields.io/badge/-instagram-fe016a?style=for-the-badge&logo=instagram&logoColor=white     
 
 [stats]: https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true
 [langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true
