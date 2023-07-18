@@ -16,6 +16,9 @@ I am an active person in the tech community. I currently manage the ![][spacecod
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true) <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true)
 
+### Listening Now
+[![](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=ff4500)](https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&redirect=true)
+
 [linkedin]: https://linkedin.com/in/crischgs
 [devto]: https://www.dev.to/crischgs
 [twitter]: https://www.twitter.com/crischgs
