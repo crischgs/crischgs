@@ -40,7 +40,7 @@ Don't try to understand. I really listen to a little bit of everything. <br />
 [threads-logo]: https://img.shields.io/badge/-threads-white?style=for-the-badge&logo=threads&logoColor=black
 [instagram-logo]: https://img.shields.io/badge/-instagram-fe016a?style=for-the-badge&logo=instagram&logoColor=white     
 
-[stats]: https://github-readme-stats.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true
+[stats]: https://stats-crischgs.vercel.app/api?username=crischgs&card_width=450&theme=slateorange&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&cache_seconds=1800&hide=issues,contribs&hide_border=true
+[langs]: https://stats-crischgs.vercel.app/api/top-langs/?username=crischgs&layout=compact&card_width=450&theme=slateorange&hide_title=true&hide_border=true
 
 [spotify]: https://spotify-github-profile.vercel.app/api/view?uid=r9pme7fofnvsrc4kaoe63xc0t&cover_image=true&theme=natemoo-re&show_offline=false&interchange=false&bar_color=ff4500
