@@ -13,8 +13,7 @@ Creativity is one of my strongest points. Before entering - and falling in love 
 [![][instagram-logo]][instagram]
 
 ### 🫱🏻‍🫲🏻 Community
-I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community and I'm a proud ![][he4rt][He4rt] member.
-
+I'm an active person in the tech community. I currently manage the ![][spacecoders][SpaceCoders] community.
 ### :octocat: GitHub Stats
 ![][stats] <br />
 ![][langs]
