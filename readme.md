@@ -1,5 +1,3 @@
-<img src="/crischgs.jpg" align="right" width="250px">
-
 ### ✌🏻 Hi there!
 My name is Cristiano Chagas, but you can call me Cris. I'm a 23 years old Web Developer from Minas Gerais, Brazil. <br />
 Currently, I'm studying <b>Full Stack Web Development</b> at <a href="https://www.betrybe.com/">Trybe</a> - the best web development school in Brazil. <br />
